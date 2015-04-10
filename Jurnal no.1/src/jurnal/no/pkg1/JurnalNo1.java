@@ -8,10 +8,7 @@ package jurnal.no.pkg1;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Praktikum
- */
+
 public class JurnalNo1 {
 
     /**
